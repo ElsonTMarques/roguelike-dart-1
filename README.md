@@ -1,3 +1,10 @@
+**Integrantes do grupo**  
+Elson Tavares Marques  150006559  
+Eliara Costa  160006442  
+Matheus Camilo  120006204  
+Matheus Jair  160006384  
+Moises Coelho  160002103  
+
 # Roguelike
 
 Este projeto faz parte das minhas aulas de programação mobile com Flutter, porém todo o código está escrito em Dart.
